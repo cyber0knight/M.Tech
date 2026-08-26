@@ -1,0 +1,11 @@
+Opened: Friday, 21 August 2026, 12:00 AM
+Due: Friday, 28 August 2026, 12:00 AM
+1.      Implement a program that takes an image, applies Canny edge detection, and allows you to adjust the threshold values using track bars.
+
+2.      Create an application that detects and highlights objects of a specific color in a video stream.
+
+3.      Build a system that can detect and count the number of faces in an image or video.
+
+4.      Implement a program that can resize an image, rotate it by a certain angle, or blur it using a specified kernel.
+
+5.      Create a basic face recognition system that can identify a person from a database of known faces
